@@ -1,0 +1,16 @@
+/* Campus Brew: primary theme colors */
+:root {
+  --bs-primary-bg: #613d2d;
+  --bs-primary-fg: #613d2d;
+  --bs-primary-fg-emphasis: #42291d;
+  --bs-primary-border: #613d2d;
+  --bs-primary-focus-ring: #613d2d;
+  --bs-primary-contrast: #ffffff;
+}
+
+/* Solid primary buttons */
+.btn-solid.theme-primary {
+  --bs-theme-bg: #613d2d;
+  --bs-theme-border: #613d2d;
+  --bs-theme-contrast: #ffffff;
+}
